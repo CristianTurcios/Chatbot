@@ -12,7 +12,7 @@
       },
       "root": "",
       "sourceRoot": "src",
-      "prefix": "app",
+      "prefix": "sumadi",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "chatbot"
+  "defaultProject": "chatbot",
+  "cli": {
+    "analytics": "30e8347a-b21b-4b8a-8e5d-b4ec7ffa74fa"
+  }
 }

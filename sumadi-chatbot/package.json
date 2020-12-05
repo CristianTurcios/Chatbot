@@ -1,0 +1,11 @@
+{
+  "name": "sumadi-chatbot",
+  "version": "1.0.2",
+  "description": "sumadi chatbot",
+  "main": "sumadi-chatbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cturcioscolindres01@gmail.com",
+  "license": "ISC"
+}
